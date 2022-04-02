@@ -1,0 +1,7 @@
+body {
+    background-image: url(img/background.png);
+    filter: brightness(0.85);
+    background-position: center center;
+    background-size: cover;
+    position:unset;    
+}
